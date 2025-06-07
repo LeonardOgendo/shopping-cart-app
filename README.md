@@ -43,4 +43,4 @@ Hardcoded product list as an array of product objects for now
 
 ## 🚀 Status
 
-🔧 Project setup complere. Implementation in progress
+🔧 Project setup complete. Implementation in progress
